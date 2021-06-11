@@ -1,5 +1,5 @@
-# test-repository
+# This is my first repository
 This is a test repository
 This is a change from a local computer
-Github is remote
+Just experimenting
 
